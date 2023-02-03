@@ -9,4 +9,5 @@ Também foi desenvolvido o esboço do algoritmo Guloso que seleciona as melhores
 No notebook também estão anotados os resultados de cada regra isolada para o dataset de TVs, implementado em json, e para o de Restaurantes, implementado em XML.
 
 [1] PORIA, Soujanya et al. A rule-based approach to aspect extraction from product reviews. In: Proceedings of the second workshop on natural language processing for social media (SocialNLP). 2014. p. 28-37.
+
 [2] M. Tubishat, N. Idris, and M. Abushariah, ‘‘Explicit aspects extraction in sentiment analysis using optimal rules combination,’’ Future Gener. Comput. Syst., vol. 114, pp. 448–480, Jan. 2021
